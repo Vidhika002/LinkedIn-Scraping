@@ -1,0 +1,17 @@
+{
+  "name": "scrape-linkedin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@n-h-n/linkedin-profile-scraper": "^2.7.3",
+    "cheerio": "^1.0.0-rc.12",
+    "linkedin-profile-scraper": "^2.3.1",
+    "puppeteer": "^20.7.3"
+  }
+}
